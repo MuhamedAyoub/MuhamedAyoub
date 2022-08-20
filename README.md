@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameri Mohamed Ayoub</h1>
 <h3 align="center">A passionate MERN stack developer AND data science Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moayoub" alt="moayoub" /></a> </p>
+
 
 - 🌱 I’m currently learning **Redhat admin**
 
