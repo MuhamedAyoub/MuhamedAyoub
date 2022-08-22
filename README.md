@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Redhat admin**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **react,next,express**
 
