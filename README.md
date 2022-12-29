@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameri Mohamed Ayoub</h1>
-<h3 align="center">A passionate MERN stack developer AND data science Enthusiast</h3>
+<h3 align="center">A passionate FULL stack developer AND data science Enthusiast</h3>
 
 
 
