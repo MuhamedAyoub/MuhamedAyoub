@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS  and more about node.js and django **
 
-- 💬 Ask me about **react,next,express**
+- 💬 Ask me about **react,next,express and django**
 
 - 📫 How to reach me **ameri.mohamedayoub@gmail.com**
 
