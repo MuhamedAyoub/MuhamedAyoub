@@ -1,5 +1,5 @@
-# 💫 About Me: HI, I AM A FULL STACK DEVELOPER 
-🔭 I’m currently working on PMS as SAAS app <br>👯 I’m looking to collaborate on open source web projects<br>🌱 I’m currently learning more about Devops Engineering  <br>💬 Ask me about the Backend engineering <br>⚡ Fun fact AI will replace us 
+# 💫 About Me: HI, I AM A FULL STACK Software Engineer 
+🔭 I’m currently working on Remote acadimic Exam  platform <br>👯 I’m looking to collaborate on open source web projects<br>🌱 I’m currently learning more about Devops Engineering  <br>💬 Ask me about the Backend engineering <br>⚡ Fun fact <b> AI </b>  will replace us 
 
 
 ## 🌐 Socials:
