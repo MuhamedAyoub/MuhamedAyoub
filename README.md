@@ -1,5 +1,5 @@
 # 💫 About Me: HI, I AM A Platform Software Engineer 
-🔭 I’m currently working on Online Payment System <br>👯 I’m looking to collaborate on open source software projects<br>🌱 I’m currently learning more about MLOPS Engineering  <br>💬 Ask me about the Backend engineering  
+🔭 I’m currently working on Online Payment System <br>👯 I’m looking to collaborate on open source software projects<br>🌱 I’m currently learning more about MLOPS Engineering  <br>💬 Ask me about DevOps & Backend engineering  
 
 
 ## 🌐 Socials:
