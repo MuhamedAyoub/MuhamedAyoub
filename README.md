@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
   - DevOps & SRE: bach, Aws, CiCd and DevSecOps Advanced Practices, TerraForm/Ansible , Cloud-Native( All Phases )
   - BackEnd: Go, Typescript ,NodeJs ( Fastify,Nest,Express) , Python (Flask,Djano), Java (SpringBoot),
-  - Database: PostgresSQL( Advanced ), Pg/pgSQL, Neo4j , MongoDB , Cassandra
+  - Database: PostgresSQL( Advanced ), PL/pgSQL, Neo4j , MongoDB , Cassandra
   - FrontEnd: React,Nextjs/Remix , i do some React Native 
   - Data Engineering: Apache Nifi , Kafka ,Spark, BeautifulSoup/selenium , Pandas , Power BI ... In Progress
   - Gold stack: Shell,Coffee & Brain
