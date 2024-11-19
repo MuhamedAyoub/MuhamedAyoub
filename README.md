@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100028186669989) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amr__.ayoub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameri-mohamed-ayoub-68935a221) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmeriAyb) 
 
 # 💻 Tech Stack:
-  - DevOps & SRE: bach, Aws, CiCd and DevSecOps Advanced Practices, TerraForm/Ansible , Cloud-Native( All Phases )
+  - DevOps & SRE: bach, Aws, CiCd and DevSecOps Advanced Practices, TerraForm/Ansible , Cloud-Native( monitoring , tracing , logging, SAST, DAST ... All Phases )
   - BackEnd: Go, Typescript ,NodeJs ( Fastify,Nest,Express) , Python (Flask,Djano), Java (SpringBoot),
   - Database: PostgresSQL( Advanced ), PL/pgSQL, Neo4j , MongoDB , Cassandra
   - FrontEnd: React,Nextjs/Remix , i do some React Native 
