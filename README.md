@@ -9,9 +9,8 @@
   - DevOps & SRE: bach, Aws, CiCd and DevSecOps Advanced Practices, TerraForm/Ansible , Cloud-Native( All Phases )
   - BackEnd: Go, Typescript ,NodeJs ( Fastify,Nest,Express) , Python (Flask,Djano), Java (SpringBoot),
   - Database: PostgresSQL( Advanced ), Pg/pgSQL, Neo4j , MongoDB , Cassandra
-  - DataWarehouse: Apache Nifi , Pentaho
   - FrontEnd: React,Nextjs/Remix , i do some React Native 
-  - Data Engineering: Apache Nifi , Kafka , BeautifulSoup, Pandas , Power BI ... In Progress
+  - Data Engineering: Apache Nifi , Kafka ,Spark, BeautifulSoup/selenium , Pandas , Power BI ... In Progress
   - Gold stack: Shell,Coffee & Brain
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MuhamedAyoub&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
