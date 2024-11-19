@@ -12,6 +12,7 @@
   - FrontEnd: React,Nextjs/Remix , i do some React Native 
   - Data Engineering: Apache Nifi , Kafka ,Spark, BeautifulSoup/selenium , Pandas , Power BI ... In Progress
   - Gold stack: Shell,Coffee & Brain
+  - Main: DevOps,Backend and Data engineering
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MuhamedAyoub&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhamedAyoub&theme=react&hide_border=false)<br/>
