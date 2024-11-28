@@ -4,10 +4,10 @@ I'm Mohamed, an aspiring **Platform Software Engineer** specializing in **DevOps
 
 ## 💼 About Me
   - 🌍 Based in Sidi bel Abbes, Algeria.
-  - 🏢 Currently working as a DevOps and Backend Software Engineer.
-  - 🎓 Pursuing a degree in Data Science and Artificial Intelligence.
-  - 🚀 Aspiring to work in Europe and grow into a Principal Software Engineer.
-  - 📈 Passionate about coding, automation, and optimizing systems.
+  - 🏢 Currently working as a **DevOps and Backend Software Engineer**.
+  - 🎓 Pursuing a degree in **Data Science and Artificial Intelligence**.
+  - 🚀 Aspiring to work in Europe and grow into a **Principal Software Engineer**.
+  - 📈 Passionate about **coding**, **automation**, and **optimizing systems**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameri-mohamed-ayoub-68935a221) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmeriAyb)
