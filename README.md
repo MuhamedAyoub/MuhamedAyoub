@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ameri Mohamed Ayoub
 
-I'm Mohamed, an aspiring Platform Software Engineer specializing in DevOps and MLOps, with a passion for Software Engineering and Data Engineering. With a strong foundation in Cloud-Native technologies, I enjoy building scalable, reliable, and secure systems that address real-world challenges.
+I'm Mohamed, an aspiring **Platform Software Engineer** specializing in **DevOps** and **MLOps**, with a passion for **Software** Engineering and **Data** Engineering. With a strong foundation in **Cloud-Native** technologies, I enjoy building scalable, reliable, and secure systems that address real-world challenges.
 
 ## 💼 About Me
   - 🌍 Based in Sidi bel Abbes, Algeria.
