@@ -10,9 +10,17 @@ I'm Mohamed, an aspiring **Platform Software Engineer** specializing in **DevOps
   - 📈 Passionate about **coding**, **automation**, and **optimizing systems**.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameri-mohamed-ayoub-68935a221) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmeriAyb)
-
+  - My _ [LinkedIn](https://linkedin.com/in/ameri-mohamed-ayoub-68935a221)
+  - My _ [Portfolio](https://www.ameri-mohamed-ayoub.me/en/)
+  - My _ [Resume](https://www.ameri-mohamed-ayoub.me/assets/ameri_mohamed_ayoub.pdf)
+    
 ## 🛠️ Tech Stack
+### **Areas of Expertise**
+  - Software Engineering : Lead large-scale projects and architect robust systems.
+  - Tech Leadership: Mentor teams, define technical direction, and deliver impactful solutions.
+  - DevOps Engineering: Implement CI/CD pipelines, automate workflows, desiging Infrastructure, and ensure production reliability.
+  - Data Engineering: Design and implement efficient data pipelines for analytics and processing.
+### **Skills**   
 - **DevOps & SRE**
     - Proficient in CI/CD pipelines and DevSecOps best practices.
     - Tools & Technologies: Terraform, Ansible, Kubernetes, AWS, and Bash scripting, other Open Source Stuff ..
