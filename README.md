@@ -1,22 +1,46 @@
-# 💫 About Me: HI, I AM A Platform Software Engineer 
-🔭 I’m currently working on Online Payment System <br>👯 I’m looking to collaborate on open source software projects<br>🌱 I’m currently learning more about MLOPS Engineering  <br>💬 Ask me about DevOps & Backend engineering  
+# Hi there! 👋 I'm Ameri Mohamed Ayoub
 
+I'm Mohamed, an aspiring Platform Software Engineer specializing in DevOps and MLOps, with a passion for Software Engineering and Data Engineering. With a strong foundation in Cloud-Native technologies, I enjoy building scalable, reliable, and secure systems that address real-world challenges.
+
+## 💼 About Me
+  - 🌍 Based in Sidi bel Abbes, Algeria.
+  - 🏢 Currently working as a DevOps and Backend Software Engineer.
+  - 🎓 Pursuing a degree in Data Science and Artificial Intelligence.
+  - 🚀 Aspiring to work in Europe and grow into a Principal Software Engineer.
+  - 📈 Passionate about coding, automation, and optimizing systems.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100028186669989) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amr__.ayoub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameri-mohamed-ayoub-68935a221) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmeriAyb) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameri-mohamed-ayoub-68935a221) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmeriAyb)
 
-# 💻 Tech Stack:
-  - DevOps & SRE: bach, Aws, CiCd and DevSecOps Advanced Practices, TerraForm/Ansible , Cloud-Native( monitoring , tracing , logging, SAST, DAST ... All Phases )
-  - BackEnd: Go, Typescript ,NodeJs ( Fastify,Nest,Express) , Python (Flask,Djano), Java (SpringBoot),
-  - Database: PostgresSQL( Advanced ), PL/pgSQL, Neo4j , MongoDB , Cassandra
-  - FrontEnd: React,Nextjs/Remix , i do some React Native 
-  - Data Engineering: Apache Nifi , Kafka ,Spark, BeautifulSoup/selenium , Pandas , Power BI ... In Progress
-  - Gold stack: Shell,Coffee & Brain
-  - Main: DevOps,Backend and Data engineering
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhamedAyoub&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhamedAyoub&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamedAyoub&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 🛠️ Tech Stack
+- **DevOps & SRE**
+    - Proficient in CI/CD pipelines and DevSecOps best practices.
+    - Tools & Technologies: Terraform, Ansible, Kubernetes, AWS, and Bash scripting, other Open Source Stuff ..
+    - Expertise in Cloud-Native workflows: monitoring, tracing, logging, SAST, DAST, etc.
+
+- **Backend Development**
+    - Languages: Go, TypeScript, Python, and i do some cool stuff in  Java.
+    - Frameworks: Fastify, NestJS, Flask, Django.
+
+- **Databases**
+    - Advanced skills in PostgreSQL and PL/pgSQL.
+    - Hands-on experience with Neo4j, MongoDB, and Cassandra.
+
+- **Frontend Development**
+    - Proficient in React, Next.js, and Remix.
+  
+- **Data Engineering**
+    - Experienced in Apache NiFi,Spark, Kafka, Spark, BeautifulSoup, Selenium, Pandas, and Power BI.
+    - Continuously expanding knowledge in data processing and analytics.
+
+- **Core Values**: 
+    - Efficiency powered by Shell scripting, Coffee, and Critical Thinking.
+
+## 🌱 What I’m Working On: 
+- Designing and deploying cloud-native solutions with Kubernetes and Terraform.
+- Building robust backend systems for fintech and enterprise applications.
+- Automating infrastructure and improving DevSecOps pipelines.
+ 
 
 
 ### ✍️ Random Dev Quote
