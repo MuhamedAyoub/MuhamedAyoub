@@ -6,7 +6,7 @@ I'm Mohamed, an aspiring **Platform Software Engineer** specializing in **DevOps
   - 🌍 Based in Sidi bel Abbes, Algeria.
   - 🏢 Currently working as a **DevOps and Backend Software Engineer**.
   - 🎓 Pursuing a degree in **Data Science and Artificial Intelligence**.
-  - 🚀 Aspiring to work in Europe and grow into a **Principal Software Engineer**.
+  - 🚀 Aspiring to grow into a **Principal Software Engineer**.
   - 📈 Passionate about **coding**, **automation**, and **optimizing systems**.
 
 ## 🌐 Socials:
