@@ -10,7 +10,7 @@ I'm Mohamed, an aspiring **Platform Software Engineer** specializing in **DevOps
   - 📈 Passionate about **coding**, **automation**, and **optimizing systems**.
 
 ## 🌐 Socials:
-  - My _ [LinkedIn](https://linkedin.com/in/ameri-mohamed-ayoub-68935a221)
+  - My _ [LinkedIn](https://www.linkedin.com/in/mohamed-ayoub-ameri-68935a221/)
   - My _ [Portfolio](https://www.ameri-mohamed-ayoub.me/en/)
   - My _ [Resume](https://www.ameri-mohamed-ayoub.me/assets/ameri_mohamed_ayoub.pdf)
     
