@@ -35,12 +35,15 @@ I'm Mohamed, an aspiring **Platform Software Engineer** specializing in **DevOps
     - Hands-on experience with Neo4j, MongoDB, and Cassandra.
 
 - **Frontend Development**
-    - Proficient in React, Next.js, and Remix.
+    - Proficient in React, Next.js.
   
 - **Data Engineering**
-    - Experienced in Apache NiFi,Spark, Kafka, Spark, BeautifulSoup, Selenium, Pandas, and Power BI.
+    - Experienced in big data technologies like Apache NiFi,Spark and Spark-GraphX, Kafka, Airflow.
+    - Data processing with Pandas,SQL,knowledge in DataOps pipelines.
     - Continuously expanding knowledge in data processing and analytics.
-
+- **AI Enineering**
+   - NLP, MLOps, RAGs,Deep learning, transformers,PyTorch
+   - GPU programming with CUDA, Familiar with Multi threading, MPI and OpenMP for distributed and shared-memory   
 - **Core Values**: 
     - Efficiency powered by Shell scripting, Coffee, and Critical Thinking.
 
