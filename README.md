@@ -16,7 +16,7 @@ I'm Mohamed, an aspiring **Platform Software Engineer** specializing in **DevOps
     
 ## 🛠️ Tech Stack
 ### **Areas of Expertise**
-  - Software Engineering : Lead large-scale projects and architect robust systems.
+  - Backend Software Engineering : Lead large-scale projects and architect robust systems.
   - Tech Leadership: Mentor teams, define technical direction, and deliver impactful solutions.
   - DevSecOps Engineering: Implement CI/CD pipelines, automate workflows, desiging Infrastructure, and ensure production reliability.
   - Data Engineering: Design and implement efficient data pipelines for analytics and processing.
