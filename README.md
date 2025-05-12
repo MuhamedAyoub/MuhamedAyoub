@@ -18,7 +18,7 @@ I'm Mohamed, an aspiring **Platform Software Engineer** specializing in **DevOps
 ### **Areas of Expertise**
   - Software Engineering : Lead large-scale projects and architect robust systems.
   - Tech Leadership: Mentor teams, define technical direction, and deliver impactful solutions.
-  - DevOps Engineering: Implement CI/CD pipelines, automate workflows, desiging Infrastructure, and ensure production reliability.
+  - DevSecOps Engineering: Implement CI/CD pipelines, automate workflows, desiging Infrastructure, and ensure production reliability.
   - Data Engineering: Design and implement efficient data pipelines for analytics and processing.
 ### **Skills**   
 - **DevOps & SRE**
@@ -26,13 +26,11 @@ I'm Mohamed, an aspiring **Platform Software Engineer** specializing in **DevOps
     - Tools & Technologies: Terraform, Ansible, Kubernetes, AWS, and Bash scripting, other Open Source Stuff ..
     - Expertise in Cloud-Native workflows: monitoring, tracing, logging, SAST, DAST, etc.
 
-- **Backend Development**
-    - Languages: Go, TypeScript, Python, and i do some cool stuff in  Java.
-    - Frameworks: Fastify, NestJS, Flask, Django.
+- **Backend Engineering**
+    - Languages: Go, TypeScript, Python.
+    - Frameworks: Fastify, NestJS, FastAPI, Django.
+    - Databases: Advanced skills in PostgreSQL,  PL/pgSQL,Neo4j, MongoDB, and Cassandra
 
-- **Databases**
-    - Advanced skills in PostgreSQL and PL/pgSQL.
-    - Hands-on experience with Neo4j, MongoDB, and Cassandra.
 - **Data Engineering**
     - Experienced in big data technologies like Apache NiFi,Spark and Spark-GraphX, Kafka, Airflow.
     - Data processing with Pandas,SQL,knowledge in DataOps pipelines.
@@ -46,10 +44,6 @@ I'm Mohamed, an aspiring **Platform Software Engineer** specializing in **DevOps
 - **Core Values**: 
     - Efficiency powered by Shell scripting, Coffee, and Critical Thinking.
 
-## 🌱 What I’m Working On: 
-- Designing and deploying cloud-native solutions with Kubernetes and Terraform.
-- Building robust backend systems for fintech and enterprise applications.
-- Automating infrastructure and improving DevSecOps pipelines.
  
 
 
